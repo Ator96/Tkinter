@@ -1,0 +1,79 @@
+Ancla:Instrumento de hierro, en forma de arpon o anzuelo doble, que sirve para sujetar las naves al fondo del mar.
+Ascendente:Que asciende o sube.
+Azucena:Planta herbacea de la familia de las liliaceas, con tallo alto, hojas largas, estrechas y brillantes y flores muy olorosas, de diferentes colores por las que se distinguen sus distintas variedades.
+Baca:Parte superior de los vehiculos para transportar bultos.
+Bodrio:Cosa mal hecha o de mala calidad.
+Buzo:Persona que se dedica profesionalmente a trabajar sumergido en el agua.
+Cebolla:Planta de huerta liliacea, con tallo hueco, hojas largas y cilindricas, flores de color blanco verdoso y raiz fibrosa que nace de un bulbo esferoidal, blanco o rojizo, formado por capas tiernas y jugosas, de olor fuerte y sabor mas o menos picante.
+Chalupa:Embarcacion, generalmente con cubierta y dos palos para las velas.
+Clan:Grupo o comunidad de personas con una ascendencia comun en la que tienen gran importancia los lazos familiares y la obediencia a un jefe.
+Diamante:Piedra preciosa formada de carbono puro cristalizado, que es el mas brillante y duro de todos los minerales.
+Doctor:Persona que ha recibido el mas alto grado academico que otorga la universidad.
+Duende:Espiritu travieso que se cree que habita en algunas casas, causando en ellas alteraciones y desordenes.
+Escoba:Utensilio para barrer el suelo, compuesto por un manojo o penacho de ramas, hilos o fibras flexibles sujetas a un mango.
+Etiqueta:Conjunto de los estilos, normas, usos y costumbres que se debe guardar en los actos publicos o solemnes.
+Exvoto:Ofrenda que se hace a los dioses en recuerdo y agradecimiento por un bien recibido.
+Felicidad:Estado de animo del que disfruta de lo que desea.
+Fluorescente:Que emite luz mediante un material fluorescente.
+Fruta:Fruto comestible de ciertas plantas:
+Globo:Bolsa de goma o de otro material flexible que se llena de gas o de aire.
+Gruta:Cavidad natural o artificial abierta en riscos.
+Gusano:Nombre comun que se utiliza para designar diversos animales invertebrados de cuerpo blando, cilindrico y alargado, que se contrae al moverse.
+Habitar:Vivir, ocupar habitualmente un lugar o casa.
+Hidra:Monstruo de siete cabezas que renacian a medida que se cortaban.
+Hueco:Vacio,concavo.
+Insecto:Clase de animales artropodos antenados, con el cuerpo dividido en cabeza, torax y abdomen, de respiracion traqueal y provistos de tres pares de patas.
+Irrumpir:Entrar violentamente en un lugar.
+Izar:Hacer subir algo tirando de la cuerda de que esta colgado.
+Jaqueca:Intenso dolor de cabeza que ataca solamente en una parte de ella o en uno de sus lados.
+Jinete:Persona que monta a caballo con destreza.
+Justo:Que obra segun la justicia. 
+Karaoke:Aparato que emite la musica de canciones conocidas con el fin de que una o varias personas puedan poner su voz sobre ella, leyendo sobregrabada sobre un videoclip o sobre imagenes neutras en una pantalla la letra de las canciones.
+Kiwi:Fruto de piel marrón, rugosa y peluda y carne verde comestible.
+Kril:Conjunto de una gran variedad de especies de pequeños moluscos y crustaceos, de alto poder nutritivo, que forma parte del plancton de los mares polares.
+Leal:Que guarda fidelidad y actúa con sinceridad.
+Loto:Planta acuatica de la familia de las ninfaceas, con hojas grandes, flores terminales blancas azuladas y olorosas y fruto globoso.
+Lucido:Brillante.
+Machete:Especie de cuchillo ancho, pesado y de un solo filo.
+Miedo:Sensacion de alerta y angustia por la presencia de un peligro o mal.
+Modoso:Recatado,comedido,que tiene buen comportamiento y educacion.
+Nabo:Planta herbacea anual de la familia de las cruciferas,de hojas grandes ,enteras, y amarillas y raiz carnosa comestible.
+Nicotina:Alcaloide liquido e incoloro que se oscurece en contacto con el aire,es venenoso y se encuentra en el tabaco.
+Nutrido:Lleno,abundante.
+Obsequio:Muestra de afecto o respeto que se hace a alguien para complacerlo.
+Oscilar:Moverse alternativamente de un lado para otro un cuerpo que esta colgado o apoyado en un solo punto.
+Oxidar:Transformar un cuerpo por la accion del oxigeno o de un oxidante.
+Oyente:Persona que asiste a un curso sin estar matriculado como alumno.
+Placa:Plancha de metal u otra materia,en general rígida y poco gruesa.
+Poeta:Persona que tiene sensibilidad poetica.
+Puyazo:Herida hecha con la puya.
+Quebrado:Debilitado.
+Queja:Expresion de dolor,pena o sentimiento.
+Quiosco:Construccion que se instala en la calle o lugares publicos para vender en ella periodicos,flores u otras mercancias.
+Radiador:Aparato de calefaccion compuesto de varios tubos por los que circula vapor,aceite o agua caliente.
+Router:Dispositivo encargado de encaminar y transmitir paquetes de informacion entre diferentes redes informaticas.
+Rueda:Maquina elemental,en forma circular y de poco grueso respecto a su radio,que puede girar sobre un eje.
+Sabandija:Cualquier reptil o insecto particularmente molesto o perjudicial.
+Sal:Nombre comun del cloruro sódico,sustancia blanca,cristalina,de sabor acre y muy soluble en agua,que se emplea como condimento.
+Suturar:Coser una herida.
+Tamal:Especie de empanada hecha de masa de harina de maiz envuelta en hojas de platano o de la mazorca del maiz,y rellena de distintos condimentos.
+Trabalenguas:Palabra o locucion dificil de pronunciar.
+Tundra:Terreno abierto y llano de clima subglacial y subsuelo helado, falto de vegetacion arborea, con el suelo cubierto de musgos y liquenes y pantanoso en muchos sitios.
+Ulsera:Lesion que destruye tejidos de la piel o de la mucosa de un organo.
+Usuario:Que habitualmente utiliza algo.
+Uvula:Masa membranosa y muscular, de forma conica, que ocupa la parte media posterior del velo del paladar.
+Vaca:Hembra del toro.
+Vibrar:Hacer un cuerpo cortos y rápidos movimientos mas o menos intensos.
+Volcan:Abertura o grieta de la corteza terrestre,por la que ascienden o han salido en algun momento humo, llamas y materias encendidas o derretidas del interior de la tierra.
+Watt:Nombre del vatio en la nomenclatura internacional.
+Walkman:Aparato musical portatil con auriculares.
+Whisky:Bebida alcohólica.
+Xenon:Gas noble que se encuentra en reducidas cantidades en el aire.
+Xilofono:Instrumento de percusion formado por una serie de listones de madera o metal.
+Xoconochtle:Higo chumbo de sabor amargo preparado con alguna mezcla dulce.
+Yate:Barco de recreo, de velas o de motor.
+Yelmo:Parte de la armadura antigua que resguardaba la cabeza.
+Yeso:Sulfato de calcio hidratado, compacto o terroso, generalmente blanco, que tiene la propiedad de endurecerse rapidamente cuando se amasa con agua.
+Zafiro:Corindon cristalizado de color azul que se utiliza en joyeria.
+Zepelin:Globo dirigible.
+Zombi:Persona resucitada que carece de voluntad y se comporta como un automata.
